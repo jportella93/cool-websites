@@ -26,3 +26,7 @@ https://www.blobmaker.app/
 
 https://getwaves.io/
 
+# Editors
+
+https://www.freephototool.com/
+
